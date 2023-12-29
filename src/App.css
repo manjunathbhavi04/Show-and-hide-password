@@ -1,0 +1,10 @@
+.container{
+    position: relative;
+}
+
+.eye{
+    position: absolute;
+    left: 150px;
+    top: 3px;
+
+}
